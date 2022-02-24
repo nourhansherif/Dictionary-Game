@@ -1,0 +1,23 @@
+Easy    Everest The highest mountain in the world
+Hard    Kilauea The most active volcanoes in the world
+Easy    Nile    The longest river in the world
+Medium  Congo   The deepest river in the world
+Easy    Amazon  The Largest Forest in the world
+Hard    Valdivia  The most powerful Earthquake
+Hard    Philippine The largest sea in the world
+Easy    Pacific    The largest and deepest of the world
+Medium  Sahara    The largest desert in the world
+Medium  Greenland The largest island in the world
+Easy    Arctic    The smallest ocean in the world
+Medium  Armstrong  The first man on the moon 
+Hard    Sputnik   The first artificial satellite sent out of the Earth
+Medium  Antarctica  The coldest place on Earth
+Easy    Russia     The largest country in the world
+Hard    Roe    The shortest river in the world
+Medium  Andes  The longest mountain range in the world
+Hard    Carcross  The smallest desert in the world
+Hard    Krubera  The deepest cave on Earth
+Hard    Tibet   A place is known as the roof of the world
+Easy    Nitrogen  The most abundant gas in the earth’s atmosphere
+Easy    Africa   The continent with the most number of countries
+Medium  Diamond  The hardest substance available on earth

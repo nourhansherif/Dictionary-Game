@@ -1,0 +1,2 @@
+NewPlayer	2
+Mostafa	2
