@@ -1,0 +1,11 @@
+﻿  Dictionarygame.cpp
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(341): warning C4018: '<': signed/unsigned mismatch
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(355): warning C4018: '<': signed/unsigned mismatch
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(493): warning C4018: '<': signed/unsigned mismatch
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(630): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(632): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\yasme\source\repos\dictionarygameusers\dictionarygameusers\dictionarygame.cpp(219): warning C4715: 'Dictionarygame::choosecategory': not all control paths return a value
+  Dictionarygameusers.vcxproj -> C:\Users\yasme\source\repos\Dictionarygameusers\Debug\Dictionarygameusers.exe

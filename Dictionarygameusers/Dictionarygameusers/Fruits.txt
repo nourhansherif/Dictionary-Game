@@ -1,0 +1,9 @@
+Hard Apple	It is known for keeping a doctor away if you eat it
+Easy Banana 	Yellow tall fruit
+Medium Blueberries	Round blue small fruit
+Medium Cherries	Round red small fruit
+Hard Orange	Has the same name as a color
+Medium Lemon	Has a lot of Vitamen C 
+Hard Pomegranate	A large solid fruit with a lot of seeds inside it
+Medium Pineapple	A fruit which consists of another fruit name in it
+Easy Watermelon	A large fruit with a green cover and red body with black seeds

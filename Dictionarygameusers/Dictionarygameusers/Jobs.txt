@@ -1,0 +1,18 @@
+Easy Waiter	Serves you at restaurants
+Easy Dentist	You visit him when your tooth hurts
+Medium Nurse	Helps the doctor at hospitals
+Easy Doctor	You visit him when you are sick
+Easy Surgeon	Makes Surgries
+Hard Solider	Has an important role in wars
+Easy Photographer	Takes pictures for you
+Easy Pilot	Drives a plane
+Easy Farmer	Lives in a Farm
+Easy Fireman		Puts off fires
+Medium Lawyer		Gives a speech in a court
+Hard Policeofficer	Protects you in danger
+Medium Barber		Gives you a new hair look
+Medium Salesperson	Helps you at shops
+Easy Teacher		Teaches you at school
+Hard Gardener	Takes care of your garden
+Medium Painter		Gives your wall a new paint
+Medium DeliveryMan	Delivers you products

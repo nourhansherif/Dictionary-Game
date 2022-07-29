@@ -1,0 +1,7 @@
+Hard Black	The darkest of all colors
+Hard White	The brightest of all colors
+Hard Orange	A fruit has the same name
+Medium Yellow	Color of the sunflower
+Easy Blue	Color of the sky
+Easy Red	Color of blood
+Easy Green	Color of trees

@@ -1,0 +1,15 @@
+NewPlayer	1
+ahmed	3
+NewPlayer2	1
+NewPlayer1	1
+NewPlayer3	1
+NewPlayer4	1
+NewPlayer5	1
+NewPlayer6	1
+NewPlayer7	1
+NewPlayer1112	1
+NewPlayer8	1
+NewPlayer9	1
+NewPlayer10	1
+NewPlayer111	1
+NewPlayer11113	1
