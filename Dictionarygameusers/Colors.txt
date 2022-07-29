@@ -1,8 +1,0 @@
-Black	The darkest of all colors
-White	The brightest of all colors
-Orange	A fruit has the same name
-Yellow	Color of the sunflower
-Blue	Color of the sky
-Red	Color of blood
-Green	Color of grass
-Brown   Color of the trunk of trees
